@@ -294,18 +294,3 @@ dashboard/ (Interactive Dashboards)
 - **Do not commit** the `env/` folder to the repository
 - Add `data/`, `env/`, and `__pycache__/` to `.gitignore`
 
-## 📄 License
-
-[Add your license information here]
-
-## 👨‍💻 Author
-
-[Add your name and contact information]
-
-## 📧 Questions?
-
-For issues or questions, please [add your contact method or issue tracker link].
-
----
-
-**Last Updated:** June 2026
